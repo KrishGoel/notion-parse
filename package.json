@@ -1,0 +1,27 @@
+{
+  "name": "notion-parse",
+  "version": "1.0.0",
+  "description": "A Comprehensive Parser for Converting NotionAPI JSON to Markup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishGoel/notion-parse.git"
+  },
+  "keywords": [
+    "NotionAPI",
+    "Parser",
+    "Notion-to-HTML",
+    "Notion-to-Markup",
+    "Notion-to-Markdown",
+    "Notion"
+  ],
+  "author": "KrishGoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishGoel/notion-parse/issues"
+  },
+  "homepage": "https://github.com/KrishGoel/notion-parse#readme"
+}
